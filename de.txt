@@ -1,2 +1,6 @@
 guten tag
+<<<<<<< HEAD
 ace luo
+=======
+boring class
+>>>>>>> a18a0dd3c4b1958d2527d0445853ec5aa07939c8
